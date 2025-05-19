@@ -11,5 +11,5 @@ embedding_model = HuggingFaceEmbeddings(
 )
 
 # Embed the query using the Hugging Face Inference API
-embedding = embedding_model.embed_query("Hannibal season 2 is intriguing")
+embedding = embedding_model.embed_query("Hannibal season 2 is intriguing season 3 not so sure")
 print(embedding)
