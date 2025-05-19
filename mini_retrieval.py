@@ -9,7 +9,7 @@ load_dotenv()
 # Sample documents and query
 documents = [
     "Virat Kohli is an Indian cricketer known for his aggressive batting and leadership.",
-    "MS Dhoni is a former Indian captain famous for his calm demeanor and finishing skills.",
+    "MS Dhoni is a former Indian captain famous for his calm demeanor and finishing skills and presence of mind.",
     "Sachin Tendulkar, also known as the 'God of Cricket', holds many batting records.",
     "Rohit Sharma is known for his elegant batting and record-breaking double centuries.",
     "Jasprit Bumrah is an Indian fast bowler known for his unorthodox action and yorkers."
