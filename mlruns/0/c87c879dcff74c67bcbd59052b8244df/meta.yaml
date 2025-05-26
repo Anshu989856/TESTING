@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c87c879dcff74c67bcbd59052b8244df/artifacts
+deleted_time: 1748245175640
+end_time: 1748244999672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c87c879dcff74c67bcbd59052b8244df
+run_name: upbeat-cub-360
+run_uuid: c87c879dcff74c67bcbd59052b8244df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748244999648
+status: 4
+tags: []
+user_id: anshu

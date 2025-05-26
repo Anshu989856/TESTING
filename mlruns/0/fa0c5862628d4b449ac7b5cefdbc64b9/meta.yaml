@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fa0c5862628d4b449ac7b5cefdbc64b9/artifacts
+deleted_time: 1748245175639
+end_time: 1748245021141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa0c5862628d4b449ac7b5cefdbc64b9
+run_name: victorious-tern-829
+run_uuid: fa0c5862628d4b449ac7b5cefdbc64b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748245021091
+status: 4
+tags: []
+user_id: anshu

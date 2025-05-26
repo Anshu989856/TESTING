@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdef7c5148574bc8ae6379f95755e2ab/artifacts
+end_time: 1748247630919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdef7c5148574bc8ae6379f95755e2ab
+run_name: sincere-steed-823
+run_uuid: fdef7c5148574bc8ae6379f95755e2ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748247623153
+status: 3
+tags: []
+user_id: anshu

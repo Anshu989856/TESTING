@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7158ebee09e3437287ec2ed00121b34a/artifacts
+deleted_time: 1748260385220
+end_time: 1748247314658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7158ebee09e3437287ec2ed00121b34a
+run_name: rare-hawk-483
+run_uuid: 7158ebee09e3437287ec2ed00121b34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748247314238
+status: 4
+tags: []
+user_id: anshu

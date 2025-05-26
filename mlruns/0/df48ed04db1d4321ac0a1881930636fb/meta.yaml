@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/df48ed04db1d4321ac0a1881930636fb/artifacts
+deleted_time: 1748260385220
+end_time: 1748247089208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: df48ed04db1d4321ac0a1881930636fb
+run_name: upset-fish-947
+run_uuid: df48ed04db1d4321ac0a1881930636fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748247088024
+status: 4
+tags: []
+user_id: anshu
