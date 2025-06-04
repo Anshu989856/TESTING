@@ -1,0 +1,21 @@
+2025-05-24 17:39:25,305 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-24 17:39:25,321 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-24 17:39:25,325 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-24 17:39:25,393 - feature_engineering - DEBUG - TF-IDF applied and data transformed
+2025-05-24 17:39:25,535 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-24 17:39:25,568 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-05-24 17:39:25,570 - feature_engineering - DEBUG - Feature engineering pipeline completed successfully.
+2025-05-24 20:21:46,750 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-24 20:21:46,767 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-24 20:21:46,771 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-24 20:21:46,835 - feature_engineering - DEBUG - TF-IDF applied and data transformed
+2025-05-24 20:21:46,976 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-24 20:21:46,999 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-05-24 20:21:47,000 - feature_engineering - DEBUG - Feature engineering pipeline completed successfully.
+2025-05-24 20:50:51,407 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-05-24 20:50:51,419 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-05-24 20:50:51,425 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-05-24 20:50:51,487 - feature_engineering - DEBUG - TF-IDF applied and data transformed
+2025-05-24 20:50:51,538 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-05-24 20:50:51,564 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-05-24 20:50:51,564 - feature_engineering - DEBUG - Feature engineering pipeline completed successfully.

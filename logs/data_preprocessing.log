@@ -1,0 +1,30 @@
+2025-05-24 17:28:59,404 - Data Preprocessing - DEBUG - Data loaded
+2025-05-24 17:28:59,405 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 17:28:59,407 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 17:28:59,421 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 17:29:12,627 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 17:29:12,627 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 17:29:12,628 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 17:29:12,630 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 17:29:16,088 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 17:29:16,101 - Data Preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-05-24 20:17:32,899 - Data Preprocessing - DEBUG - Data loaded
+2025-05-24 20:17:32,899 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 20:17:32,902 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 20:17:32,906 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 20:17:57,683 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 20:17:57,684 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 20:17:57,685 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 20:17:57,686 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 20:18:02,106 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 20:18:02,120 - Data Preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-05-24 20:50:30,305 - Data Preprocessing - DEBUG - Data loaded
+2025-05-24 20:50:30,306 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 20:50:30,307 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 20:50:30,312 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 20:50:43,464 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 20:50:43,465 - Data Preprocessing - DEBUG - STARTING PREPROCESSING
+2025-05-24 20:50:43,466 - Data Preprocessing - DEBUG - Target column encoded
+2025-05-24 20:50:43,468 - Data Preprocessing - DEBUG - Duplicates removed
+2025-05-24 20:50:49,241 - Data Preprocessing - DEBUG - Text column transformed
+2025-05-24 20:50:49,255 - Data Preprocessing - DEBUG - Processed data saved to ./data\interim

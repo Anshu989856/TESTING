@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubernetes-test-app
+  labels:
+    app: kubernetes-test-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: kubernetes-test-app
+  template:
+    metadata:
+      labels:
+        app: kubernetes-test-app
+    spec:
+      containers:
+      - name: kubernetes-test-app
+        image: k-app:initial           
+        imagePullPolicy: Never         # Use local image, don't pull from registry
+        resources:
+          limits:
+            memory: "64Mi"
+            cpu: "200m"
+        ports:
+        - containerPort: 5000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: kubernetes-test-app
+spec:
+  type: NodePort     # 👈 This line is required to expose it externally
+  selector:
+    app: kubernetes-test-app
+  ports:
+  - port: 8080
+    targetPort: 5000
+    nodePort: 30007   # 👈 Optional, choose a port between 30000-32767

@@ -1,25 +1,22 @@
-# Use an official Python runtime as a parent image
-FROM python:3.8-slim
+FROM python:3.9-slim
 
-# Set environment variables
+
+ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
-ENV FLASK_APP=dapp.py
-ENV FLASK_RUN_HOST=0.0.0.0
 
-# Set the working directory in the container
+
 WORKDIR /app
 
-# Copy your custom requirements file
-COPY reqdock.txt /app/reqdock.txt
 
-# Install dependencies from reqdock.txt
-RUN pip install --no-cache-dir -r reqdock.txt
+COPY re.txt /app/
+COPY app.py /app/
+COPY templates /app/templates
+COPY static /app/static
 
-# Copy your Flask app
-COPY dapp.py /app/
 
-# Expose port 5000 for Flask
+RUN pip install --no-cache-dir -r re.txt
+
 EXPOSE 5000
 
-# Run the Flask app
-CMD ["flask", "run"]
+
+CMD ["python", "app.py"]
