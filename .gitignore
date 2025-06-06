@@ -2,3 +2,8 @@
 key.txt
 /models
 /reports
+/PROJECTS
+/S3
+/data
+/experiments
+/__pycache__
